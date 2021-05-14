@@ -20,10 +20,10 @@ i'm passionate about solving problems and learning. 🤔💻
 
 
 <a href="https://github.com/Ceviche9">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ceviche9&theme=midnight-purple" alt="Ceviche9 github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ceviche9&theme=synthwave" alt="Ceviche9 github stats"/>
 </a>
 <a href="https://github.com/Ceviche9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceviche9&hide=html&layout=compact&theme=midnight-purple" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceviche9&hide=html&layout=compact&theme=synthwave" />
 </a>
 
 <h3> &nbsp;Contact me </h3>
