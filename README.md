@@ -18,6 +18,14 @@ i'm passionate about solving problems and learning. 🤔💻
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
 
+
+<a href="https://github.com/Ceviche9">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ceviche9&theme=radical" alt="Ceviche9 github stats"/>
+</a>
+<a href="https://github.com/Ceviche9">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceviche9&hide=html&layout=compact&theme=radical" />
+</a>
+
 <h3> &nbsp;Contact me </h3>
 
 [![Linkedin: Eduardo Bernardino](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/tundê-cavalcante-1621441ba/)
