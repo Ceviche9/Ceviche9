@@ -8,7 +8,7 @@ I'm developer from Brazil.
 
 i'm passionate about solving problems and learning. 🤔💻
 - 🎓 Student at <a href="https://ifce.edu.br">IFCE - Federal Institute of Education, Science and Technology of Ceará</a>.
-- ⚛️ React Native Developer.
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> React Native Developer.
 	> currently only developing front-end,
 - 👩🏾‍💻 Python lover. ❤️
 
