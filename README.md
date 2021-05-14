@@ -1,4 +1,4 @@
-# HEY <img src="https://raw.githubusercontent.com/dudubernardino/dudubernardino/main/assets/hi.gif" width="28px">
+# HEY <img src="https://raw.githubusercontent.com/dudubernardino/dudubernardino/main/assets/hi.gif" width="28px"> 
 
 hello world 🌎
 
