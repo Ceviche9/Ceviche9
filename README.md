@@ -8,8 +8,7 @@ I'm developer from Brazil.
 
 i'm passionate about solving problems and learning. 🤔💻
 - 🎓 Student at <a href="https://ifce.edu.br">IFCE - Federal Institute of Education, Science and Technology of Ceará</a>.
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> React Native Developer.
-	> currently only developing front-end,
+- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />React Native Developer.
 - 👩🏾‍💻 Python lover. ❤️
 
 ## Languages and Tools
