@@ -1,6 +1,7 @@
 # HEY <img src="https://raw.githubusercontent.com/dudubernardino/dudubernardino/main/assets/hi.gif" width="28px"> 
 
 ### Who am i? 
+
 i'm passionate about solving problems and learning. 🤔💻
 - 🎓 Student at Federal Institute of Education, Science and Technology of Ceará (IFCE).
 - ⚛️ React Native Developer.
