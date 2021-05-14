@@ -1,4 +1,6 @@
-# HEY <img src="https://raw.githubusercontent.com/dudubernardino/dudubernardino/main/assets/hi.gif" width="28px"> 
+# HEY <img src="https://raw.githubusercontent.com/dudubernardino/dudubernardino/main/assets/hi.gif" width="28px"> , my name is Tundê Cavalcante.
+
+I'm developer from Brazil.
 
 ### Who am i? 
 
