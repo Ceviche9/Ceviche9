@@ -2,7 +2,7 @@
 
 # Hi <img src="https://raw.githubusercontent.com/dudubernardino/dudubernardino/main/assets/hi.gif" width="28px"> , I'm Tundê.
 
-I'm developer from Brazil.
+Developer from Brazil.
 
 ### Who am i? 
 
@@ -11,7 +11,7 @@ i'm passionate about solving problems and learning. 🤔💻
 - <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />React Native Developer.
 - 👩🏾‍💻 Python lover. ❤️
 
-## Languages and Tools
+## 🛠 💻 Technologies & Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -19,11 +19,14 @@ i'm passionate about solving problems and learning. 🤔💻
 
 ![image](https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
 ![image](https://camo.githubusercontent.com/0b9bce580a369d91352cf37397f1e079ef104531fc0bc53a145deb8f43fca535/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f4e61746976652d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
 
 
+
+
+## Coding Activity
 <a href="https://github.com/Ceviche9">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ceviche9&theme=synthwave" alt="Ceviche9 github stats"/>
 </a>
