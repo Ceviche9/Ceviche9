@@ -27,7 +27,7 @@ Developer from Brazil ![brazil](https://user-images.githubusercontent.com/834316
 
 ## Coding Activity
 <a href="https://github.com/dudubernardino/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubernardino&hide=html&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceviche9&hide=html&layout=compact&theme=radical" />
 </a>
 
 
