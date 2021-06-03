@@ -9,7 +9,8 @@ Developer from Brazil ![brazil](https://user-images.githubusercontent.com/834316
 
 - Student at <a href="https://ifce.edu.br">IFCE - Federal Institute of Education, Science and Technology of Ceará</a>.
 - React Native Developer.
-- 👩🏾‍💻 Python lover. ❤️
+> currently only front-end
+- 👩🏾‍💻 passionate about JavaScript and its technologies. ❤️
 
 ## 🛠 💻 Technologies & Tools
 
