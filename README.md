@@ -24,8 +24,6 @@ Developer from Brazil ![brazil](https://user-images.githubusercontent.com/834316
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 
-
-
 ## Coding Activity
 
 <a href="https://github.com/Ceviche9">
