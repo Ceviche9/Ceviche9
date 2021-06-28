@@ -35,7 +35,7 @@ Developer from Brazil ![brazil](https://user-images.githubusercontent.com/834316
 
 ## 🔥 New
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Ceviche9&repo=nlw-gameplay&bg_color=ffffff00&text_color=666666)](https://github.com/Ceviche9/nlw-gameplay) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Ceviche9&repo=nlw-gameplay&theme=material-palenight)](https://github.com/Ceviche9/nlw-gameplay) 
 
 
 <h3> &nbsp;📧 Contact me </h3>
