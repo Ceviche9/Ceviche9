@@ -6,7 +6,7 @@
 Developer from Brazil ![brazil](https://user-images.githubusercontent.com/83431609/119268690-7a9f9a00-bbca-11eb-85c7-ce9e3634b8b7.png)
 
 
-## 📖  Who am i? 
+## 📖 About me 
 
 - Student at <a href="https://ifce.edu.br">IFCE - Federal Institute of Education, Science and Technology of Ceará</a>.
 - I'm currently focused to improve my skills on the Javascript ecosystem
