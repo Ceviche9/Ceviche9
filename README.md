@@ -6,7 +6,7 @@
 Developer from Brazil ![brazil](https://user-images.githubusercontent.com/83431609/119268690-7a9f9a00-bbca-11eb-85c7-ce9e3634b8b7.png)
 
 
-### Who am i? 
+## 🧑🏾‍💻 Who am i? 
 
 - Student at <a href="https://ifce.edu.br">IFCE - Federal Institute of Education, Science and Technology of Ceará</a>.
 - I'm currently focused to improve my skills on the Javascript ecosystem
@@ -14,7 +14,7 @@ Developer from Brazil ![brazil](https://user-images.githubusercontent.com/834316
 - React Native Developer.
 > currently only front-end
 
-## 🛠 💻 Technologies & Tools
+## 🚀  Skills
 
 
 ![image](https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
@@ -33,7 +33,7 @@ Developer from Brazil ![brazil](https://user-images.githubusercontent.com/834316
 ![CSS](https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
 
 
-## Coding Activity
+## 💻 Coding Activity
 
 <a href="https://github.com/Ceviche9/">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ceviche9&theme=jolly" alt="ceviche9 github stats"/>
