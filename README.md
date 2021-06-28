@@ -6,7 +6,7 @@
 Developer from Brazil ![brazil](https://user-images.githubusercontent.com/83431609/119268690-7a9f9a00-bbca-11eb-85c7-ce9e3634b8b7.png)
 
 
-## 🧑🏾‍💻 Who am i? 
+## 📖  Who am i? 
 
 - Student at <a href="https://ifce.edu.br">IFCE - Federal Institute of Education, Science and Technology of Ceará</a>.
 - I'm currently focused to improve my skills on the Javascript ecosystem
@@ -40,7 +40,7 @@ Developer from Brazil ![brazil](https://user-images.githubusercontent.com/834316
 </a>
 
 
-<h3> &nbsp;Contact me </h3>
+<h3> &nbsp;📧 Contact me </h3>
 
 [![Linkedin: Tundê Cavalcante](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/tundê-cavalcante-1621441ba/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:niinbus@gmail.com)
