@@ -42,5 +42,5 @@ Developer from Brazil ![brazil](https://user-images.githubusercontent.com/834316
 
 <h3> &nbsp;Contact me </h3>
 
-[![Linkedin: Eduardo Bernardino](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/tundê-cavalcante-1621441ba/)
+[![Linkedin: Tundê Cavalcante](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/tundê-cavalcante-1621441ba/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:niinbus@gmail.com)
