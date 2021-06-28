@@ -1,8 +1,8 @@
+<a href="https://storyset.com/rocket" title="Illustration by Freepik Storyset">
+  <img align="right" src="https://raw.githubusercontent.com/daltonmenezes/daltonmenezes/master/assets/To%20the%20stars-amico.svg" alt="a rocket on launch" width=55% height=55% />
+</a>
+
 # Hi <img src="https://raw.githubusercontent.com/dudubernardino/dudubernardino/main/assets/hi.gif" width="28px"> , I'm Tundê.
-
-<img src="https://user-images.githubusercontent.com/83431609/123574683-b4a22400-d7a6-11eb-8b7b-6f4c68067ceb.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-
 Developer from Brazil ![brazil](https://user-images.githubusercontent.com/83431609/119268690-7a9f9a00-bbca-11eb-85c7-ce9e3634b8b7.png)
 
 
