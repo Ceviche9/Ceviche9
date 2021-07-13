@@ -11,7 +11,7 @@ Developer from Brazil ![brazil](https://user-images.githubusercontent.com/834316
 - Student at <a href="https://ifce.edu.br">IFCE - Federal Institute of Education, Science and Technology of Ceará</a>.
 - I'm currently focused to improve my skills on the Javascript ecosystem
 - I'm always open to discover new things
-- React Native Developer.
+- React/React Native Developer.
 
 ## 🚀  Skills
 
