@@ -5,7 +5,7 @@
 # Hi <img src="https://raw.githubusercontent.com/dudubernardino/dudubernardino/main/assets/hi.gif" width="28px"> , I'm Tundê.
 Developer from Brazil 🇧🇷 
 
-## 📖 About me 
+## 👩🏿‍🚀 About me 
 
 - Student at <a href="https://ifce.edu.br">IFCE - Federal Institute of Education, Science and Technology of Ceará</a>.
 - I'm currently focused to improve my skills on the Javascript ecosystem
