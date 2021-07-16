@@ -3,8 +3,7 @@
 </a>
 
 # Hi <img src="https://raw.githubusercontent.com/dudubernardino/dudubernardino/main/assets/hi.gif" width="28px"> , I'm Tundê.
-Developer from Brazil ![brazil](https://user-images.githubusercontent.com/83431609/119268690-7a9f9a00-bbca-11eb-85c7-ce9e3634b8b7.png)
-
+Developer from Brazil 🇧🇷 
 
 ## 📖 About me 
 
