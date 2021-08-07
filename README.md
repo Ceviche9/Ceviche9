@@ -2,7 +2,7 @@
   <img align="right" src="https://raw.githubusercontent.com/daltonmenezes/daltonmenezes/master/assets/To%20the%20stars-amico.svg" alt="a rocket on launch" width=50% height=50% />
 </a>
 
-# Hi <img src="https://raw.githubusercontent.com/dudubernardino/dudubernardino/main/assets/hi.gif" width="28px"> , I'm Tundê. <img src="https://raw.githubusercontent.com/phil-r/slack-emoji/master/emojis/Games/mario.gif" width="48px">
+# Hi <img src="https://raw.githubusercontent.com/dudubernardino/dudubernardino/main/assets/hi.gif" width="28px"> , I'm Tundê.
 Developer from Brazil 🇧🇷 
 
 ## 👩🏿‍🚀 About me 
