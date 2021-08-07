@@ -9,7 +9,7 @@ Developer from Brazil 🇧🇷
 
 - Student at <a href="https://ifce.edu.br">IFCE - Federal Institute of Education, Science and Technology of Ceará</a>.
 - I'm currently focused to improve my skills on the Javascript ecosystem.
-- Mobile development enthusiast, focusing on Android.
+- Mobile development enthusiast.
 - I'm always open to discover new things.
 - React/React Native Developer.
 
