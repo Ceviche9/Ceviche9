@@ -35,8 +35,6 @@ Developer from Brazil 🇧🇷
 
 ## 📌 New
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Ceviche9&repo=letmeask&theme=material-palenight)](https://github.com/Ceviche9/nlw-letmeask)
-
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Ceviche9&repo=Proffy&theme=material-palenight)](https://github.com/Ceviche9/Proffy) 
 
 
