@@ -1,5 +1,5 @@
 <img
-	src="https://raw.githubusercontent.com/daltonmenezes/daltonmenezes/master/assets/To%20the%20stars-amico.svg"
+	src="https://raw.githubusercontent.com/solrachix/solrachix/master/ativos/dev_productivit.svg"
 	width="400px"
 	height="390px"
 	align="right"
