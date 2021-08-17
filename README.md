@@ -45,6 +45,8 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
-## 📌 New
+## ☄️ New
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Ceviche9&repo=Proffy&theme=material-palenight)](https://github.com/Ceviche9/Proffy) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Ceviche9&repo=letmeask&theme=material-palenight)](https://github.com/Ceviche9/letmeask) 
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Ceviche9&repo=EduSynch-Challenge&theme=material-palenight)](https://github.com/Ceviche9/EduSynch-Challenge) 
