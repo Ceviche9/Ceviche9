@@ -1,9 +1,20 @@
-<a href="https://storyset.com/rocket" title="Illustration by Freepik Storyset">
-  <img align="right" src="https://raw.githubusercontent.com/daltonmenezes/daltonmenezes/master/assets/To%20the%20stars-amico.svg" alt="a rocket on launch" width=50% height=50% />
-</a>
+<img
+	src="https://raw.githubusercontent.com/daltonmenezes/daltonmenezes/master/assets/To%20the%20stars-amico.svg"
+	width="400px"
+	height="390px"
+	align="right"
+/>
 
 # Hi <img src="https://raw.githubusercontent.com/dudubernardino/dudubernardino/main/assets/hi.gif" width="28px"> , I'm Tundê.
-Developer from Brazil 🇧🇷 
+<a href="https://github.com/Ceviche9">
+      <img alt="Github Badge" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Ceviche9" />
+</a>
+<a href="https://www.linkedin.com/in/tund%C3%AA-cavalcante-1621441ba/">
+      <img alt="Tundê Cavalcante" src="https://img.shields.io/badge/-Tundê%20Cavalcante-5659EB?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="mailto:ayotunde_sales@hotmail.com">
+      <img alt="Outlook badge" src="https://img.shields.io/badge/-OUTLOOK-5659EB?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white&link=mailto:ayotunde_sales@hotmail.com" />
+</a>
 
 ## 👩🏿‍🚀 About me 
 
@@ -13,8 +24,9 @@ Developer from Brazil 🇧🇷
 - I'm always open to discover new things.
 - I'm currently focused to improve my skills on the Javascript ecosystem.
 
+---
 
-## 🚀  Skills
+### 🚀 Technical Skills
 
 
 ![JavaScript](https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
@@ -36,9 +48,3 @@ Developer from Brazil 🇧🇷
 ## 📌 New
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Ceviche9&repo=Proffy&theme=material-palenight)](https://github.com/Ceviche9/Proffy) 
-
-
-## 📩 Contact me 
-
-[![Linkedin: Tundê Cavalcante](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/tundê-cavalcante-1621441ba/)
-[![Outlook](https://img.shields.io/badge/OUTLOOK-000000?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white)](mailto:ayotunde_sales@hotmail.com)
