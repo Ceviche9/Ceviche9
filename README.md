@@ -29,20 +29,20 @@
 ## 🚀 Skills
 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-5659EB?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5659EB?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-5659EB?style=for-the-badge&logo=react&logoColor=white)
 
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-5659EB?style=for-the-badge&logo=react&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-5659EB?style=for-the-badge&logo=jest&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-5659EB?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-5659EB?style=for-the-badge&logo=docker&logoColor=white)
 
 
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SqLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postgres](https://img.shields.io/badge/PostgreSQL-5659EB?style=for-the-badge&logo=postgresql&logoColor=white)
+![SqLite](https://img.shields.io/badge/SQLite-5659EB?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-5659EB?style=for-the-badge&logo=firebase&logoColor=white)
 
 
 ## ☄️ New
