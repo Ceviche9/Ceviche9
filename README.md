@@ -49,4 +49,4 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Ceviche9&repo=letmeask&theme=nord)](https://github.com/Ceviche9/letmeask) 
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Ceviche9&repo=EduSynch-Challenge&theme=nord)](https://github.com/Ceviche9/EduSynch-Challenge) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Ceviche9&repo=Eduick&theme=nord)](https://github.com/Ceviche9/Eduick) 
