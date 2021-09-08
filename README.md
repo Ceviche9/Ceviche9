@@ -49,4 +49,4 @@
 
 ## ☄️ New
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Ceviche9&repo=Eduick&theme=nord)](https://github.com/Ceviche9/Eduick) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Ceviche9&repo=Letalk-challenge&theme=nord)](https://github.com/Ceviche9/Letalk-challenge) 
