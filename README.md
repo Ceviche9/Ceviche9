@@ -19,7 +19,7 @@
 ## 👩🏿‍🚀 About me 
 
 - Student at <a href="https://ifce.edu.br">IFCE - Federal Institute of Education, Science and Technology of Ceará</a>.
-- React/React Native Developer.
+- Full Stack Developer.
 - Mobile development enthusiast.
 - I'm always open to discover new things.
 - I'm currently focused to improve my skills on the Javascript ecosystem.
