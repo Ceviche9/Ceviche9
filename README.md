@@ -23,7 +23,7 @@
 - Currently working at <a href="https://www.letalk.com.br/">Letalk</a>.
 - Mobile development enthusiast.
 - I'm always open to discover new things.
-- I'm currently focused to improve my skills on the Javascript ecosystem.
+- I'm currently focused to improve my skills on the Typescript ecosystem.
 
 ---
 
