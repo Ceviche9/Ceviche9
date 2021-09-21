@@ -16,7 +16,7 @@
       <img alt="Outlook badge" src="https://img.shields.io/badge/-OUTLOOK-5659EB?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white&link=mailto:ayotunde_sales@hotmail.com" />
 </a>
 
-## 👩🏿‍🚀 About me 
+## 👨🏿‍🚀 About me 
 
 - Student at <a href="https://ifce.edu.br">IFCE - Federal Institute of Education, Science and Technology of Ceará</a>.
 - Full Stack Developer.
