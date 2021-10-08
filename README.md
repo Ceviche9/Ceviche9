@@ -20,7 +20,6 @@
 
 - Student at <a href="https://ifce.edu.br">IFCE - Federal Institute of Education, Science and Technology of Ceará</a>.
 - Full Stack Developer.
-- Currently working at <a href="https://www.letalk.com.br/">Letalk</a>.
 - Mobile development enthusiast..
 - I'm currently focused to improve my skills on the typescript ecosystem.
 
