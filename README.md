@@ -27,6 +27,7 @@
 
 ## 🚀 Skills
 
+#### 💬 Languages & tools
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -41,6 +42,28 @@
 
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### 🔨 Architetures & Others
+
+<p align="left">
+
+<a href="#">
+      <img alt="Microservices" src="https://img.shields.io/badge/Microservices-gray.svg?style=for-the-badge" />
+</a>
+<a href="#">
+      <img alt="MVC" src="https://img.shields.io/badge/MVC-gray.svg?style=for-the-badge" />
+</a>
+<a href="#">
+      <img alt="DesignPattern" src="https://img.shields.io/badge/DesignPattern-gray.svg?style=for-the-badge" />
+</a>
+<a href="#">
+      <img alt="CleanCode" src="https://img.shields.io/badge/CleanCode-gray.svg?style=for-the-badge" />
+</a>
+<a href="#">
+      <img alt="APIs Restful" src="https://img.shields.io/badge/APIs%20Restful-gray.svg?style=for-the-badge" />
+</a>
+</p>
+
 
 ## ☄️ In progess
 
