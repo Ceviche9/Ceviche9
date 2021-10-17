@@ -48,19 +48,19 @@
 <p align="left">
 
 <a href="#">
-      <img alt="Microservices" src="https://img.shields.io/badge/Microservices-gray.svg?style=for-the-badge" />
+      <img alt="Microservices" src="https://img.shields.io/badge/Microservices-8257e6.svg?style=for-the-badge" />
 </a>
 <a href="#">
-      <img alt="MVC" src="https://img.shields.io/badge/MVC-gray.svg?style=for-the-badge" />
+      <img alt="MVC" src="https://img.shields.io/badge/MVC-8257e6.svg?style=for-the-badge" />
 </a>
 <a href="#">
-      <img alt="DesignPattern" src="https://img.shields.io/badge/DesignPattern-gray.svg?style=for-the-badge" />
+      <img alt="DesignPattern" src="https://img.shields.io/badge/DesignPattern-8257e6.svg?style=for-the-badge" />
 </a>
 <a href="#">
-      <img alt="CleanCode" src="https://img.shields.io/badge/CleanCode-gray.svg?style=for-the-badge" />
+      <img alt="CleanCode" src="https://img.shields.io/badge/CleanCode-8257e6.svg?style=for-the-badge" />
 </a>
 <a href="#">
-      <img alt="APIs Restful" src="https://img.shields.io/badge/APIs%20Restful-gray.svg?style=for-the-badge" />
+      <img alt="APIs Restful" src="https://img.shields.io/badge/APIs%20Restful-8257e6.svg?style=for-the-badge" />
 </a>
 </p>
 
