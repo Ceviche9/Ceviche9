@@ -20,7 +20,7 @@
 
 - Student at <a href="https://ifce.edu.br">IFCE - Federal Institute of Education, Science and Technology of Ceará</a>.
 - Full Stack Developer.
-- Mobile development enthusiast..
+- Mobile development enthusiast.
 - I'm currently focused to improve my skills on the typescript ecosystem.
 
 ---
