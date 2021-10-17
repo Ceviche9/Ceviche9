@@ -54,9 +54,6 @@
       <img alt="MVC" src="https://img.shields.io/badge/MVC-8257e6.svg?style=for-the-badge" />
 </a>
 <a href="#">
-      <img alt="DesignPattern" src="https://img.shields.io/badge/DesignPattern-8257e6.svg?style=for-the-badge" />
-</a>
-<a href="#">
       <img alt="CleanCode" src="https://img.shields.io/badge/CleanCode-8257e6.svg?style=for-the-badge" />
 </a>
 <a href="#">
