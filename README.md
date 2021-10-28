@@ -19,9 +19,9 @@
 ## 👨🏿‍🚀 About me 
 
 - Chemistry student at <a href="https://ifce.edu.br">IFCE - Federal Institute of Education, Science and Technology of Ceará</a>.
-- focusing on improving my skills in full stack development.
+- Focusing on improving my skills in full stack development.
 - Mobile development enthusiast.
-- in love with the typescript ecosystem 💙
+- In love with the typescript ecosystem 💛
 
 ---
 
