@@ -63,11 +63,6 @@
 </a>
 </p>
 
-
-## ☄️ In progess
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Ceviche9&repo=ignite-react&theme=nord)](https://github.com/Ceviche9/ignite-react) 
-
 ---
 </br>
 </br>
