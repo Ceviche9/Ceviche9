@@ -1,7 +1,7 @@
 <img
 	src="https://github.com/Ceviche9/Ceviche9/blob/main/dev_productivit.svg"
-	width="400px"
-	height="390px"
+	width="390px"
+	height="380px"
 	align="right"
 />
 
