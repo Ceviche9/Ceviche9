@@ -20,8 +20,8 @@
 
 - Chemistry student at <a href="https://ifce.edu.br">IFCE - Federal Institute of Education, Science and Technology of Ceará</a>.
 - Focusing on improving my skills in full stack development.
-- Mobile development enthusiast.
 - In love with the javascript ecosystem 💛
+- Mobile development enthusiast.
 - Developer from brasil 🇧🇷
 
 ---
