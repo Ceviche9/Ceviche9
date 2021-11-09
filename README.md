@@ -66,14 +66,3 @@
 </p>
 
 ---
-</br>
-</br>
-
-<img
-	src="https://github.com/solrachix/Proffy/blob/master/.github/adornment-5.png?raw=true"
-	width="200px"
-	height="160px"
-	align="right"
-/>
-
-  -  ***Learning is continuous and there will always be a next level*** 🌠 
