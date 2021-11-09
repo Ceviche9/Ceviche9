@@ -64,5 +64,3 @@
       <img alt="APIs Restful" src="https://img.shields.io/badge/APIs%20Restful-8257e6.svg?style=for-the-badge" />
 </a>
 </p>
-
----
