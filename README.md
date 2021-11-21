@@ -69,7 +69,7 @@
 	
 <p align="center">
 <a href="https://github.com/Ceviche9">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ceviche9&show_icons=true&bg_color=30,270d75,4a0b57&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ceviche9&layout=compact&langs_count=8&bg_color=30,270d75,4a0b57&title_color=fff&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ceviche9&show_icons=true&bg_color=30,5659eb,2e3089&title_color=fff&text_color=fff&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ceviche9&layout=compact&langs_count=8&bg_color=30,5659eb,2e3089&title_color=fff&text_color=fff"/>
 </a>
 </p>
