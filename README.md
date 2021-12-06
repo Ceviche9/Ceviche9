@@ -1,9 +1,14 @@
-<img
-	src="https://github.com/Ceviche9/Ceviche9/blob/main/dev_productivit.svg"
-	width="390px"
-	height="380px"
-	align="right"
-/>
+<p align="right">
+	<a href="https://tunde-dev.vercel.app/" target="_blank" title="Open my website">
+		<img
+			src="https://github.com/Ceviche9/Ceviche9/blob/main/dev_productivit.svg"
+		     	width="390px"
+	                height="380px"
+	                align="right"
+	 		alt="Preview image of Tundê Cavalcante"
+		>
+	</a>
+</p>
 
 # Hi <img src="https://raw.githubusercontent.com/dudubernardino/dudubernardino/main/assets/hi.gif" width="28px"> , I'm Tundê.
 
