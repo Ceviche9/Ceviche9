@@ -24,7 +24,7 @@
 ## 👨🏿‍🚀 About me 
 
 - Chemistry student at <a href="https://ifce.edu.br">IFCE - Federal Institute of Education, Science and Technology of Ceará</a>.
-- My portfolio: https://tunde-dev.vercel.app/
+- My website: https://tunde-dev.vercel.app/
 - Focusing on improving my skills in full stack development.
 - In love with the javascript ecosystem 💛
 - Mobile development enthusiast.
