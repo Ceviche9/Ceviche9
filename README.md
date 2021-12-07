@@ -1,7 +1,7 @@
 <p align="right">
 	<a href="https://tunde-dev.vercel.app/" target="_blank" title="Open my website">
 		<img
-			src="https://github.com/Ceviche9/Ceviche9/blob/main/dev_productivit.svg"
+			src="https://github.com/Ceviche9/Ceviche9/blob/main/tunde.svg"
 		     	width="390px"
 	                height="380px"
 	                align="right"
