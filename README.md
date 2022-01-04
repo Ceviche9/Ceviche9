@@ -28,7 +28,7 @@
 - Focusing on improving my skills in full stack development.
 - In love with the javascript ecosystem 💛
 - Mobile development enthusiast.
-- Developer from brasil.
+- Developer from brazil.
 
 ---
 
