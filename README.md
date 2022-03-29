@@ -23,7 +23,6 @@
 
 ## 👨🏿‍🚀 About me 
 
-- Student at IFCE - Federal Institute of Education, Science and Technology of Ceará.
 - My website: https://tunde-dev.vercel.app/
 - Focusing on improving my skills in full stack development.
 - In love with the javascript ecosystem 💛
