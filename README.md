@@ -10,7 +10,7 @@
 	</a>
 </p>
 
-# Hi <img src="https://raw.githubusercontent.com/dudubernardino/dudubernardino/main/assets/hi.gif" width="28px"> , I'm Tundê.
+# Hi, I'm Tundê.
 
 <a href="https://github.com/Ceviche9">
       <img alt="Github Badge" src="https://img.shields.io/badge/-Github-5659EB?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Ceviche9" />
