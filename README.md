@@ -26,7 +26,6 @@
 - Currently working at [Lumx Studios](https://www.lumxstudios.com)
 - My portfolio: https://tunde-dev.vercel.app/
 - Focusing on improving my skills in back-end development.
-- In love with the javascript ecosystem 💛
 - Developer from brazil.
 	
 ---
