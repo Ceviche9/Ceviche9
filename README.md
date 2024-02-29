@@ -23,7 +23,7 @@
 
 ## 👨🏿‍🚀 About me 
 
-- Currently working at [Lumx Studios](https://www.lumxstudios.com)
+- Currently working at [Lumx Studios](https://www.lumx.io/en)
 - My portfolio: https://tunde-dev.vercel.app/
 - Focusing on improving my skills in back-end development.
 - Developer from brazil.
